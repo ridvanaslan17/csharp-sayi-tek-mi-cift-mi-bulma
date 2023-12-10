@@ -24,13 +24,7 @@ namespace uygulama
             if (sayi % 2 == 0) MessageBox.Show("cift sayi");
             else
                 MessageBox.Show("tek sayi");
-
-
-
-
-            
-
-
         }
     }
 }
+// added new branch
